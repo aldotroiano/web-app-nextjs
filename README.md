@@ -6,14 +6,6 @@ You can use any container-based deployment host.
 
 ## Running Locally
 
-First, install project dependencies:
-
-```bash
-npm run install
-# or
-yarn install
-```
-
 Then, run the development server:
 
 ```bash
